@@ -19,7 +19,7 @@
 #include <WebSocketsServer.h>
 #include <Hash.h>
 
-#define LED D2
+#define LED D0
 
 const char* ssid = "TP-LINK_43CC";
 const char* password = "80087816";
